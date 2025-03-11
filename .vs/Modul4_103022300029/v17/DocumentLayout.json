@@ -18,24 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KodeProduk.cs",
-              "DocumentMoniker": "D:\\Modul4_103022300029\\KodeProduk.cs",
-              "RelativeDocumentMoniker": "KodeProduk.cs",
-              "ToolTip": "D:\\Modul4_103022300029\\KodeProduk.cs",
-              "RelativeToolTip": "KodeProduk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:46:16.909Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -45,13 +36,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Modul4_103022300029\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:42:39.082Z"
+              "WhenOpened": "2025-03-10T23:42:39.082Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KodeProduk.cs",
+              "DocumentMoniker": "D:\\Modul4_103022300029\\KodeProduk.cs",
+              "RelativeDocumentMoniker": "KodeProduk.cs",
+              "ToolTip": "D:\\Modul4_103022300029\\KodeProduk.cs",
+              "RelativeToolTip": "KodeProduk.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:46:16.909Z",
+              "EditorCaption": ""
             }
           ]
         }
