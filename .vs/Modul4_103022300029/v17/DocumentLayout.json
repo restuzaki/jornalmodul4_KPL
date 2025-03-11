@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A10A897B-F72C-4D3C-A2A3-DE0886E89D75}|Modul4_103022300029.csproj|solutionrelative:kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A10A897B-F72C-4D3C-A2A3-DE0886E89D75}|Modul4_103022300029.csproj|d:\\modul4_103022300029\\fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10A897B-F72C-4D3C-A2A3-DE0886E89D75}|Modul4_103022300029.csproj|solutionrelative:fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A10A897B-F72C-4D3C-A2A3-DE0886E89D75}|Modul4_103022300029.csproj|d:\\modul4_103022300029\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10A897B-F72C-4D3C-A2A3-DE0886E89D75}|Modul4_103022300029.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FanLaptop.cs",
+              "DocumentMoniker": "D:\\Modul4_103022300029\\FanLaptop.cs",
+              "RelativeDocumentMoniker": "FanLaptop.cs",
+              "ToolTip": "D:\\Modul4_103022300029\\FanLaptop.cs",
+              "RelativeToolTip": "FanLaptop.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwEkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:20:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modul4_103022300029\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Modul4_103022300029\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:42:39.082Z",
               "EditorCaption": ""
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "KodeProduk.cs",
               "ToolTip": "D:\\Modul4_103022300029\\KodeProduk.cs",
               "RelativeToolTip": "KodeProduk.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:46:16.909Z",
               "EditorCaption": ""
